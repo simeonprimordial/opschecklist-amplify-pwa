@@ -1,4 +1,4 @@
-const CACHE_NAME = 'opschecklist-v1'
+const CACHE_NAME = 'opschecklist-v1.0.1'
 
 const STATIC_ASSETS = [
   '/manifest.webmanifest',

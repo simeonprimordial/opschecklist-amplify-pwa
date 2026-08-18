@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react'
 import './App.css'
 
 const STORAGE_KEY = 'opschecklist-items'
-const APP_VERSION = '1.0.0'
+const APP_VERSION = '1.0.1'
 
 const starterItems = [
   {
